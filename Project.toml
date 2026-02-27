@@ -1,0 +1,4 @@
+name = "MaxiCP"
+uuid = "dd54a895-6957-4fd6-baf5-19ebd33a667e"
+version = "0.1.0"
+authors = ["Benoît Legat <benoit.legat@gmail.com>"]
