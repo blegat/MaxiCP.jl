@@ -1,0 +1,6 @@
+[deps]
+MaxiCP = "dd54a895-6957-4fd6-baf5-19ebd33a667e"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[sources]
+MaxiCP = {path = ".."}
